@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/qALLKMZ"  ><a href="//imgur.com/a/qALLKMZ">Sea Monster Crowdfunding</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/a/qALLKMZ)
+https://imgur.com/gallery/sea-monster-crowdfunding-qALLKMZ
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
